@@ -6,7 +6,7 @@ Markdowner Release is a repository for managing releases of the Markdowner proje
 
 Please refer to the releases section of this repository for the latest versions of Markdowner.
 
-[Installer](https://github.com/TakurouMaeda/markdowner/releases/tag/latest)
+[Installer](https://github.com/TakurouMaeda/markdowner-releases/releases/tag/latest)
 
 ## Contributing
 
