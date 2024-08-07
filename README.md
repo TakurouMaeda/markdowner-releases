@@ -2,6 +2,16 @@
 
 Markdowner Release is a repository for managing releases of the Markdowner project.
 
+## For Mac
+
+After you download the app and drag it to your `Applications` folder, you will face difficulties opening it because I'm not enrolled in the Apple Developer Program. To bypass this, you will need to run this in your terminal:
+
+```shell
+xattr -c /Applications/Marker.app
+```
+
+After that, you should be able to open the app with no issues.
+
 ## Usage
 
 Please refer to the releases section of this repository for the latest versions of Markdowner.
