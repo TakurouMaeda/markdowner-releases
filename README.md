@@ -7,7 +7,7 @@ Markdowner Release is a repository for managing releases of the Markdowner proje
 Translate the following command to run without a certificate for the Apple Developer Program:
 
 ```shell
-xattr -c /Applications/Marker.app
+xattr -c /Applications/Markdowner.app
 ```
 
 ## Usage
